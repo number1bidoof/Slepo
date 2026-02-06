@@ -58,9 +58,7 @@ Angel:
 - Blocked: time
 
 Marcus:
-- What I did:
-- [ ] Created Overlays for Start, Pause, and Lose screen
-- [ ] Added music while playing Minecraft
+- What I did: Created Overlays for Start, Pause, and Lose screen. Added music while playing Minecraft.
 - What I’m doing: Continue on styling the project
 - Blocked: time
 
