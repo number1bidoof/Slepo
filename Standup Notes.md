@@ -58,8 +58,10 @@ Angel:
 - Blocked: time
 
 Marcus:
-- What I did: Chicken butt
-- What I’m doing: Getting ideas of sprites, music, and overlays
+- What I did:
+- [ ] Created Overlays for Start, Pause, and Lose screen
+- [ ] Added music while playing Minecraft
+- What I’m doing: Continue on styling the project
 - Blocked: time
 
 ## Summary
@@ -67,3 +69,37 @@ Today we:
 - Made everyone has access to the repo
 - Started on the code
 - Discussed any more features we can add
+- Added overlays and music.
+
+# STANDUP NOTES — Day 2 (Feb 6th, Friday)
+
+## Attendance
+- Afton — PRESENT  
+- Chris — PRESENT  
+- Angel — PRESENT  
+- Marcus — PRESENT
+
+## Stand up:
+Afton:
+- What I did:
+- What I’m doing:
+- Blocked: time
+
+Christopher:
+- What I did:
+- What I’m doing:
+- Blocked: time
+
+Angel:
+- What I did:
+- What I’m doing:
+- Blocked: time
+
+Marcus:
+- What I did:
+- What I’m doing:
+- Blocked: time
+
+## Summary
+Today we:
+
