@@ -1,5 +1,3 @@
-New code
- 
 let playing = false;
 let pause = false;
 let gaming = true;
