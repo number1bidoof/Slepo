@@ -94,8 +94,8 @@ Angel:
 - Blocked: None
  
 Marcus:
-- What I did: Created Overlays for Start, Pause, and Lose screen. Added music while playing Minecraft.
-- What I’m doing: Continue on styling the project and thinking of extra features. 
+- What I did: Thought of new features to add
+- What I’m doing: N/A
 - Blocked: None
  
 ## Summary
@@ -103,4 +103,32 @@ Today we:
 - Are putting the finishing touches on code/game
 - Made sure the music works
 - updated md files
+ 
+# STANDUP NOTES — Day 4 (Feb 9th, Monday)
+ 
+## Attendance
+- Afton — PRESENT  
+- Chris — ABSENT 
+- Angel — PRESENT  
+- Marcus — PRESENT
+ 
+## Stand up:
+Afton:
+- What I did: 
+- What I’m doing: 
+- Blocked: None
+
+Angel:
+- What I did: Created Bug document for submission
+- What I’m doing:
+- Blocked: None
+ 
+Marcus:
+- What I did: Edited Standup Notes today
+- What I’m doing: 
+- Blocked: None
+ 
+## Summary
+Today we:
+
  
