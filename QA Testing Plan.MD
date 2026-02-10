@@ -31,23 +31,25 @@ Player Inputs:
 ### Testing Strategy by Day
 
 ## Tuesday: Happy Path & Core Mechanics
-Goal: Does the game work as the dev team said it would?
+Goal: Does the game work as the dev team said it would? 
+
+It works, but with limited functionality & noticable bugs in the code. The game is still playable, but UI is not enjoyable
 
 Test Scenarios:
 
-[X] Start the game cleanly (no crashes at launch)
+- [X] Start the game cleanly (no crashes at launch)
 
-[X] Follow the happy path (win the game normally)
+- [X] Follow the happy path (win the game normally)
 
-[X] Follow the lose path (lose the game)
+- [X] Follow the lose path (lose the game)
 
-[X] Core mechanic 1 works as described
+- [X] Core mechanic 1 works as described
 
-[X] Core mechanic 2 works as described
+- [X] Core mechanic 2 works as described
 
-[X] Core mechanic 3 works as described
+- [X] Core mechanic 3 works as described
 
-[X] All UI/output is readable and clear
+- [X] All UI/output is readable and clear
 
 ## Known issues found today:
 
