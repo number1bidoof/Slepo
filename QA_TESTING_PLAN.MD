@@ -33,7 +33,7 @@ Player Inputs:
 ## Tuesday: Happy Path & Core Mechanics
 Goal: Does the game work as the dev team said it would? 
 
-It works, but with limited functionality & noticable bugs in the code. The game is still playable, but UI is not enjoyable
+It works well, but with limited functionality & noticable bugs in the code. The game is still playable, but UI issues are apparent. 
 
 Test Scenarios:
 

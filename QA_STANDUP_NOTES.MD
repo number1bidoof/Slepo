@@ -27,7 +27,7 @@ Date: 02/10/2026
 - Blocked? N/A
 
 ## Ayah A 
-- What I did: Helped document & find errors in code, created documentation for QA process
+- What I did: Documented & find errors in code, created documentation for QA process
 - What I'm doing: Continue documenting and playing game for alpha & beta testing, look at specific problems in the code
 - Blocked? N/A
 
