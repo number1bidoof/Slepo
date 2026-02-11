@@ -4,7 +4,7 @@
 
 **Dev Team**: slepo
 
-QA team**: Bianca, Marcus C, Maddy, Ayah, Evan
+**QA team**: Bianca, Marcus C, Maddy, Ayah, Evan
 
 **Testing Period**: Week 6 (Tue-Fri)
 
