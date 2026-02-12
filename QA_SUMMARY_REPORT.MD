@@ -46,6 +46,11 @@ Test Types:
 
 **Total Bugs Filed: 3**
 
+### Github Issues
+Total: 3
+Closed: 2
+Open: 1
+
 ## By Category
 
 - **Input Validation**: 0
@@ -122,12 +127,26 @@ Fix low priority issues which effects audio
 - Teachers should spawn sooner
 - Add different movement speed
 
-## test Environment
+## Test Environment
 
 **Platform**: HTML and JavaScript on Chrome
 
 **Game Version (commit hash)**: 989c4069c0faa1c64764825c04b110951b91f200
 
 **Testing Tools**: Manual testing + GitHub Issues
+
+## Conclusion
+The game ran good but some features that would allow for smoother gameplay are broken. The graphics are simple and easy to understand, but due to the issues they look wierd. These issues are being reviwed and documented so the Dev Team can find them and fix them. 
+
+## QA Team Sign-Off
+Team Lead: Ayah
+Submitted: 2/12/26 8:27 AM
+Team Members:
+- Ayah
+- Bianca
+- Evan
+- Maddy
+- Marcus
+
 
 **End of Report**
