@@ -46,11 +46,6 @@ Test Types:
 
 **Total Bugs Filed: 3**
 
-### Github Issues
-Total: 3
-Closed: 2
-Open: 1
-
 ## By Category
 
 - **Input Validation**: 0
@@ -135,12 +130,17 @@ Fix low priority issues which effects audio
 
 **Testing Tools**: Manual testing + GitHub Issues
 
+## Github Issues
+- Total: 3
+- Closed: 2
+- Open: 1
+
 ## Conclusion
 The game ran good but some features that would allow for smoother gameplay are broken. The graphics are simple and easy to understand, but due to the issues they look wierd. These issues are being reviwed and documented so the Dev Team can find them and fix them. 
 
 ## QA Team Sign-Off
 Team Lead: Ayah
-Submitted: 2/12/26 8:27 AM
+Submitted: 2/12/26 8:29 AM
 Team Members:
 - Ayah
 - Bianca
