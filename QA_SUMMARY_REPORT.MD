@@ -83,7 +83,7 @@ Steps to Reproduce:
 
 Link: [GitHub issue](https://github.com/number1bidoof/Slepo/issues/2)
 
-## low-Priority Issues (Fix when able)
+## Low-Priority Issues (Fix when able)
 
 Severity: Low (Cosemetic Issue that doesnt effect main gameplay)
 
