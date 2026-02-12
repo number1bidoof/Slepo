@@ -14,21 +14,21 @@
 
 
 We conducted comprehensive QA testing on _Not WECIB Minecraft Simulator_ over 4 days. Our team tested:
-- students and teachers spawning and moving
+- Students and teachers spawning and moving
 - Switching between active and inactive
-- pausing
+- Pausing
 - getting and losing points
-- dying (game over)
+- Dying (game over)
 
 **Key Finding**: The game works but has a few bugs that impact critical, high and low issues
 
 ## Testing Overview
 ### What We Tested
 
-- students and teachers spawning and moving (100% coverage)
+- Students and teachers spawning and moving (100% coverage)
 - Switching between active and inactive (100% coverage)
-- pausing (100% coverage)
-- getting and losing points (100% coverage)
+- Pausing (100% coverage)
+- Getting and losing points (100% coverage)
 - (100% coverage)
 
 Test Types:
@@ -52,7 +52,7 @@ Test Types:
 - **Logic Errors**: 0
 - **State Management**: 2
 - **UI/UX Issues**: 1
-- **other**: 0
+- **Other**: 0
 
 ## Critical Issues (Must Fix Before Handoff)
 
@@ -129,3 +129,5 @@ Fix low priority issues which effects audio
 **Game Version (commit hash)**: 989c4069c0faa1c64764825c04b110951b91f200
 
 **Testing Tools**: Manual testing + GitHub Issues
+
+**End of Report**
