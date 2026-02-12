@@ -141,7 +141,7 @@ async function handleScore() {
     while (true) {
         await wait(1000);
 
-        if (playing) {
+        if (playing && !pause) {
             score += gaming ? 1 : -0.5;
 
             if (gaming) {
@@ -284,7 +284,7 @@ async function handlePeople() {
     while (true) {
         await wait(25);
 
-        if (playing) {
+        if (playing && !pause) {
             ticks++;
             movePeople();
 
