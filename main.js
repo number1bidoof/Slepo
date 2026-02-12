@@ -53,7 +53,7 @@ const gameOverAudio2 = new Audio("audio/gameOver2.mp3");
 playAgainButton.addEventListener("click", function (event) {
     deathOverlay.style = "display: none;";
     click.play();
-    window.reload();
+    location.reload();
 });
 
 /****************************************************
