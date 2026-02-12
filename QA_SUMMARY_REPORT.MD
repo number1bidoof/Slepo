@@ -20,12 +20,7 @@ We conducted comprehensive QA testing on _Not WECIB Minecraft Simulator_ over 4 
 - getting and losing points
 - dying (game over)
 
-ran:
-- **TODO**
-
-and filed **n** GitHub issues documenting bugs across all severity levels.
-
-**Key Finding**: [One sentence summary — e.g., "The core game loop works, but input validation needs attention."]
+**Key Finding**: The game works but has a few bugs that impact critical, high and low issues
 
 ## Testing Overview
 ### What We Tested
