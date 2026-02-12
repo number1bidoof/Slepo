@@ -101,7 +101,7 @@ document.addEventListener("keypress", function (event) {
 
     // Toggle gaming state (space bar)
     if (keyName == " ") {
-        if (playing) {
+        if (playing && !pause) {
             click.play();
             gaming = !gaming;
 
