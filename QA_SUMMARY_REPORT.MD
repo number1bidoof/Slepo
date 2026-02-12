@@ -83,6 +83,18 @@ Steps to Reproduce:
 
 Link: [GitHub issue](https://github.com/number1bidoof/Slepo/issues/2)
 
+## low-Priority Issues (Fix when able)
+
+Severity: Low (Cosemetic Issue that doesnt effect main gameplay)
+
+Steps to Reproduce:
+1. Enter and play the game as usual
+2. Exit out of minecraft playing mode, into work mode
+3. Pause the game
+4. Unpause the game and hear the minecraft playing sound effect
+
+Link: [GitHub issue](https://github.com/number1bidoof/Slepo/issues/3)
+
 ## Testing Insights
 
 ### What Worked Well
